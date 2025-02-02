@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DAY2ANJAN.WebApp.Controllers
 {
-    public class ControllerName : Controller
+    public class PeopleController : Controller
     {
+        
         public IActionResult Index()
         {
             return View();
