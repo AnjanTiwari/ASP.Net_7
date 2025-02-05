@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DAY2ANJAN.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0737bda6ca0d3ec165d5d5b261fe4e9263e09429")]
 [assembly: System.Reflection.AssemblyProductAttribute("DAY2ANJAN.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DAY2ANJAN.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
